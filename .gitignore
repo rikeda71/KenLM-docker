@@ -1,0 +1,2 @@
+kenlm_model/*
+!kenlm_model/.gitkeep
