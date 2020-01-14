@@ -1,5 +1,5 @@
 N = 3
-INPUT_FILE = target.txt
+INPUT_PATH = target.txt
 OUTPUT_PATH = kenlm_model/model.lm
 BINARY_PATH = kenlm_model/model.lm.bin
 SENTENCE = "This is a pen ."
